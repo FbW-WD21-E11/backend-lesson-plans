@@ -18,3 +18,7 @@
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Working with the node.js filesystem, using Promises](https://github.com/FrancoSpeziali/node-file-system-promises)
+
+### Resources
+
+- [Livecoding](https://github.com/FbW-WD21-E11/livecoding-file-system)
