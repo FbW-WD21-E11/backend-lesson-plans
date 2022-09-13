@@ -4,19 +4,14 @@
 
 ### Morning 09:00 - 12:00
 
-+ Using URL query parameters
-+ Introduction to Express.js
-+ What is a server?
-+ **Livecoding**: Building a simple server with Express.js
-+ Request types (recap)
-+ Request parameters
-
-**Presentation**: [Introduction to Express.js](https://docs.google.com/presentation/d/1kpgOb-FBKFf0cmJdhsztj31N-x6iQ1BFG_FFA18CAU4/edit?usp=sharing)
-
-+ **Solution**: Node weather CLI (Optional)
++ Solution - Logging requests
++ Middleware (recap)
++ Validation and Sanitization
+  What is it?
+  Why validation and sanitization
++ express-validator
++ **Presentation**: [Sanitization and Validation](https://docs.google.com/presentation/d/1UI0E2XBfOyIQzqACBDe4kZEu005M26mteiXC3BojzFQ/edit?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Building an almost simple server with Express.js](https://github.com/FrancoSpeziali/express-almost-simple-server)
-
-+  (Optional) [Express with a fake database](https://github.com/FrancoSpeziali/express-with-fake-database)
++ [Sanitization and Validation](https://github.com/DigitalCareerInstitute/BE-Server-Middleware)
