@@ -15,8 +15,6 @@
     + Datatypes in Mongoose Schemas
 + Saving data to the database
 + Creating fake data with [Mockaroo](https://mockaroo.com/)
-+ Recap async / await
-    + try / catch
 
 ### Afternoon 13:00 - 16:15
 
