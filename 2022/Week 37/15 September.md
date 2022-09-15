@@ -12,6 +12,8 @@
 + express-validator
 + **Presentation**: [Sanitization and Validation](https://docs.google.com/presentation/d/1UI0E2XBfOyIQzqACBDe4kZEu005M26mteiXC3BojzFQ/edit?usp=sharing)
 
++ **Live Coding**: [Live Coding](https://github.com/FbW-WD21-E11/validation-example)
+
 ### Afternoon 13:00 - 16:15
 
 + [Sanitization and Validation](https://github.com/DigitalCareerInstitute/BE-Server-Middleware)
