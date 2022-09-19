@@ -19,3 +19,10 @@
 ### Afternoon 13:00 - 16:15
 
 + [Schemas](https://github.com/FrancoSpeziali/db-schemas)
+
+### Resources
+
++ [Livecoding](https://github.com/FbW-WD21-E11/livecoding-schemas)
++ [Diagram 1 - MongoDB architecture](./mongodb-mongoose.png)
++ [Diagram 2 - MongoDb Schemas](./schemas-models.png)
++ [Diagram 3 - Middleware](./Middleware.png)
