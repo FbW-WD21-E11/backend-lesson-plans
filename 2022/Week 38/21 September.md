@@ -6,7 +6,7 @@
   + documents & collections
   + schemas & models
 + Recap: Databases and Schemas
-+ Tools (Robo 3T, Compass)
++ Tools (Compass)
 + Basic querying: Getting data from our database
   + `find()`
 + Saving data to the database

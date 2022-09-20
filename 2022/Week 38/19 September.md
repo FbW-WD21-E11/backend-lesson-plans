@@ -9,7 +9,6 @@
 + Introduction to MongoDB and Mongoose
     + Create account on Atlas
     + Connecting to your Atlas account
-    + Tools (Robo 3T, Compass)
 + Databases and Schemas & Models
     + Using schemas for validation (intro)
     + Datatypes in Mongoose Schemas
