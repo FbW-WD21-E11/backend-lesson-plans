@@ -13,8 +13,6 @@
 + Databases and Schemas & Models
     + Using schemas for validation (intro)
     + Datatypes in Mongoose Schemas
-+ Saving data to the database
-+ Creating fake data with [Mockaroo](https://mockaroo.com/)
 
 ### Afternoon 13:00 - 16:15
 
