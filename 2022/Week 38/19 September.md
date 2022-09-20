@@ -26,3 +26,9 @@
 + [Diagram 1 - MongoDB architecture](./mongodb-mongoose.png)
 + [Diagram 2 - MongoDb Schemas](./schemas-models.png)
 + [Diagram 3 - Middleware](./Middleware.png)
+
+### Recording
+
+[Introduction to MongoDB and Mongoose ](https://us02web.zoom.us/rec/share/w0_rNPQxsgAMHDL-6NKgCMXlkHzQSdukFmVHYhp6UfVnKaMjNex7KKfxioLyIOao.B_srjjG6Ta_Nmpg3 
+)
+Passcode: EReTz%7?
