@@ -17,3 +17,9 @@
 ### Afternoon 13:00 - 16:15
 
 + [Creating Data](https://github.com/FrancoSpeziali/db-creating-data)
+
+### Recording
+
+[Saving data to the database ](https://us02web.zoom.us/rec/share/Vs7FxhPJ7jALMVbdytlR681hJf63_ymgh3wk-M_Llb5RK7FMLqZhd2uyxRUFFi0e.A84JM30JUG3uvF1l 
+)\
+Passcode: %Q.s9DTc
