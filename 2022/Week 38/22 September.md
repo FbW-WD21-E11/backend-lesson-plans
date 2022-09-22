@@ -16,6 +16,8 @@
   + PATCH
   + DELETE
 
+**Live Coding**: [Live coding](https://github.com/FbW-WD21-E11/livecoding-http-verbs-crud)
+
 ### Afternoon 13:00 - 16:15
 
 + [CRUD Operation Assignment](https://github.com/GillesDCI/db-crud-operations-assignment-es)
