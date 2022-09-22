@@ -21,3 +21,9 @@
 ### Afternoon 13:00 - 16:15
 
 + [CRUD Operation Assignment](https://github.com/GillesDCI/db-crud-operations-assignment-es)
+
+### Recording
+
+[CRUD overview](https://us02web.zoom.us/rec/share/1XZkpMggl551M3-IKu9ULCY4gJgpC_0NlbmVKQub1Jqt6evQU0g3IYTgjWi1GPnf.AKbku5OxIsXN8EFr
+)\
+Passcode: 2@vsKz7G
