@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ Arrays in Schemas
++ Solution: Virtual Noticeboard
 + Subdocuments in Schemas
     + Single nested subdocument
     + Array of subdocuments
