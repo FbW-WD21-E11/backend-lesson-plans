@@ -12,3 +12,7 @@
 ### Afternoon 13:00 - 16:15
 
 + [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard)
+
+### Resources
+
+- [Livecoding](https://github.com/FbW-WD21-E11/livecoding-http-verbs-crud)
