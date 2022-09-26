@@ -69,6 +69,8 @@ If Mongodb finds your data does not match the type of data in the schema, it wil
 
 When Mongoose / Mongodb can't find a value for a single document that you've searched for, it always returns with `null`
 
+When Mongoose / Mongodb can't find a value for many documents that you've searched for, it will return with an empty array `[]`
+
 ### Enums
 
 You will find enums;
