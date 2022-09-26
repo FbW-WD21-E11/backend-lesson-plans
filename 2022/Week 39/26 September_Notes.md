@@ -73,12 +73,14 @@ When Mongoose / Mongodb can't find a value for a single document that you've sea
 
 You will find enums;
 
-C++
-Python (3)
-TypeScript
-Java
+- C++
+- Python (3)
+- TypeScript
+- Java
 
 Enum = Enumerator
+
+##### Enums and Interfaces in TS
 
 ```ts
 enum Category {
