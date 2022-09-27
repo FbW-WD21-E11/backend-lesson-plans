@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ Solution: Virtual Noticeboard
+- [Virtual Noticeboard - solution](https://github.com/FrancoSpeziali/db-virtual-noticeboard-solution)
 + Subdocuments in Schemas
     + Single nested subdocument
     + Array of subdocuments

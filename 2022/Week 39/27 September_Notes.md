@@ -16,7 +16,7 @@ However collection is named "teas" in Db
 
 "Tea" !== "teas" Why?
 
-MongoDB has it's own naming conventions
+MongoDB has its own naming conventions
 
 1. Makes everything lowercase
 2. It tries to turn the noun into the plural form
