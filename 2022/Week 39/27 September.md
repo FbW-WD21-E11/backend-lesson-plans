@@ -10,9 +10,10 @@
     + Array of subdocuments
     + Nested paths
 + Querying with Mongoose
-    + find() - more complex examples
-    + findById()
     + finding within an array
++ Additional query methods
+   + limit(n)
+   + lean()
 
 ### Afternoon 13:00 - 16:15
 
