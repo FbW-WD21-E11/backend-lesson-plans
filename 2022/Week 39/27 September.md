@@ -11,10 +11,13 @@
     + Nested paths
 + Querying with Mongoose
     + finding within an array
-+ Additional query methods
-   + limit(n)
-   + lean()
 
 ### Afternoon 13:00 - 16:15
 
 + [Db Validation](https://github.com/DigitalCareerInstitute/BE-Db-Validation)
+
+### Resources
+
++ [Quiz answers](27%20September_Quiz.md)
++ [Notes](27%20September_Notes.md)
++ [Livecoding](https://github.com/FbW-WD21-E11/livecoding-http-verbs-crud)
