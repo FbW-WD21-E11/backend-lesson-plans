@@ -12,6 +12,8 @@
     + finding within an array
 + Loading sample datasets in Atlas MongoDB
 
++ **Livecoding:** [Livecoding](https://github.com/FbW-WD21-E11/livecoding-hotels-subdocuments)
+
 ### Afternoon 13:00 - 16:15
 
 + [Db Validation](https://github.com/DigitalCareerInstitute/BE-Db-Validation)
