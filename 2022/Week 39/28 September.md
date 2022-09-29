@@ -18,3 +18,6 @@
 
 + [Db Validation](https://github.com/DigitalCareerInstitute/BE-Db-Validation)
 + [Restaurants](https://github.com/FrancoSpeziali/db-restaurants)
+
+[Recording](us02web.zoom.us/rec/share/1d0P3h1-xFN-WeBHiN9ctlIKlcuePEOmCTfgeiBIgVLrvCmliZXWLFBYMWpQxp-0._TiNVwURdTkmZW2y)\
+Passcode: wCX=04L=
