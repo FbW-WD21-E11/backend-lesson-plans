@@ -17,3 +17,8 @@
 ### Afternoon 13:00 - 16:15
 
 + [Pagination](https://github.com/FrancoSpeziali/db-pagination)
+
+### Recording
+[Recording](https://us02web.zoom.us/rec/share/mMlBrQgMuy_yjdhTIAEv1xGaTcC2aISBQUzixvBo1CeTqkaUw9gA7d7LJF49tyBj.JN1OpUQG1y9ATHWK)
+
+Passcode: #r9%9J0v
