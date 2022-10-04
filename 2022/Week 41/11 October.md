@@ -4,15 +4,14 @@
 
 ### Morning 09:00 - 12:00
 
-+ Authentication & Authorisation
-+ JWT tokens
-    + What is JWT
-    + Why do we use it?
-    + How do we use it?
-    + Example of JWT
-+ **Recap** bcrypt
-+ **Recap** Salt & Hash
+Passport.js
+
++ What is it?
+  + Why do we use it?
+  + Using passport as middleware
+  + Using passport with request headers
++ Authentication middleware example (roles)
 
 ### Afternoon 13:00 - 16:15
 
-+ [Security JWT Issuer](https://github.com/FrancoSpeziali/security-jwt-issuer)
++ [JWT Implementing Passport](https://github.com/GillesDCI/jwt-passport-assignment)

@@ -4,7 +4,8 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Recap** References & populate
++ **Recap** References & populate 
++ Comparison to SQL
 
 ### Afternoon 13:00 - 16:15
 

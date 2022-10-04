@@ -8,7 +8,6 @@
 + **Recap** Paginating results
 + References
     + Why references?
-    + Comparison to SQL
     + Creating references in the schema
     + Populating references in queries
 
