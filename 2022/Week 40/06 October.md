@@ -9,6 +9,8 @@
 + Hashes
 + Salt
 
++ **Livecoding:** [Livecoding](https://github.com/FbW-WD21-E11/livecoding-security-hashes)
+
 ### Afternoon 13:00 - 16:15
 
 + [Wizards Part 2](https://github.com/DigitalCareerInstitute/BE-Db-Wizards)
