@@ -15,3 +15,7 @@
 
 + [Wizards Part 2](https://github.com/DigitalCareerInstitute/BE-Db-Wizards)
 + [Playing with bcrypt](https://github.com/FrancoSpeziali/security-playing-with-bcrypt)
+
+### Recording
+[Recording](https://us02web.zoom.us/rec/share/HMG_Z2cZ7q0aYnGIK7YXYYmSrFxM32au6AUVuS4VCXKx3q5OzPN3g3q3NvLeq1aG.4oHKOGc4kTp2yHJL)\
+Passcode: WZ%11m?V
