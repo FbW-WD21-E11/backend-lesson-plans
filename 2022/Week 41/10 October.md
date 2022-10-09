@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ Look ahead and introduction to End of Module project
 + Authentication & Authorisation
 + JWT tokens
     + What is JWT
