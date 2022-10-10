@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
+[BE Assessment I]
 + Handling JWT tokens in the frontend
     + httpOnly cookies
     + localStorage / sessionStorage

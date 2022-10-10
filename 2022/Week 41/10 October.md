@@ -17,3 +17,11 @@
 ### Afternoon 13:00 - 16:15
 
 + [Security JWT Issuer](https://github.com/FrancoSpeziali/security-jwt-issuer)
+
+## Resources
+
+- [Livecoding](https://github.com/FbW-WD21-E11/livecoding-jsonwebtoken)
+- [Notes](10%20October_Notes.md)
+- [Diagram: bcrypt compare](bcrypt-compare%20method.drawio.png)
+- [Diagram: bcrypt hash](bcrypt-hash%20method.drawio.png)
+- [Diagram: registering with the same password](bcrypt-same%20password.drawio.png)

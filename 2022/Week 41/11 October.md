@@ -4,8 +4,6 @@
 
 ### Morning 09:00 - 12:00
 
-[BE Assessment I]
-
 + Passport.js
 + What is it?
   + Why do we use it?
