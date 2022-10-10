@@ -25,3 +25,6 @@
 - [Diagram: bcrypt compare](bcrypt-compare%20method.drawio.png)
 - [Diagram: bcrypt hash](bcrypt-hash%20method.drawio.png)
 - [Diagram: registering with the same password](bcrypt-same%20password.drawio.png)
+- [Presentation: authentication & authorization](authentication_and_authorization.md)
+- [Presentation: jwt](jwt.md)
+- [Presentation: securing passwords](securing-passwords.md)
