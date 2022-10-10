@@ -6,11 +6,11 @@
 
 [BE Assessment II]
 
-+ Introduction to final project
-+ Workshops
-  + Deployment
-  + Typescript
-    + Setting up a TS project
-    + TS Basics
++ Handling JWT tokens in the frontend
+  + httpOnly cookies
+  + localStorage / sessionStorage
+  + Security issues
 
 ### Afternoon 13:00 - 16:15
+
++ [Handling JWT Tokens in the frontend](https://github.com/FrancoSpeziali/security-jwt-httpOnly)

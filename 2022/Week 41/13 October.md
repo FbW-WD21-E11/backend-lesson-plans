@@ -5,11 +5,13 @@
 ### Morning 09:00 - 12:00
 
 [BE Assessment I]
-+ Handling JWT tokens in the frontend
-    + httpOnly cookies
-    + localStorage / sessionStorage
-    + Security issues
+
++ Passport.js
++ What is it?
+  + Why do we use it?
+  + Using passport as middleware
+  + Using passport with request headers
 
 ### Afternoon 13:00 - 16:15
 
-+ [Handling JWT Tokens in the frontend](https://github.com/FrancoSpeziali/security-jwt-httpOnly)
++ [JWT Implementing Passport](https://github.com/GillesDCI/jwt-passport-assignment)
