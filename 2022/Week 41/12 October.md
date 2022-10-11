@@ -2,6 +2,8 @@
 
 ## Lesson Plan
 
+DCI Career Fair 2.0
+
 ### Morning 09:00 - 12:00
 
 + Open call for recap topics
