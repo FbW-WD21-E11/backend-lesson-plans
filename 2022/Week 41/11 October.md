@@ -13,3 +13,7 @@
 ### Afternoon 13:00 - 16:15
 
 + Continue with previous assignments
+
+## Resources
+
+- [Questions](11 October_Questions.md)
