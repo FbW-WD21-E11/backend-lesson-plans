@@ -19,4 +19,4 @@ DCI Career Fair 2.0
 
 ## Resources
 
-- [Questions](11%20October_Questions.md)
+- [Interview Questions](11%20October_Questions.md)
