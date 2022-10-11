@@ -28,3 +28,8 @@
 - [Presentation: authentication & authorization](authentication_and_authorization.md)
 - [Presentation: jwt](jwt.md)
 - [Presentation: securing passwords](securing-passwords.md)
+
+#### Recording 
+[Recording](https://us02web.zoom.us/rec/share/niRZLEMV09KphBGe-6t6H09P9R96WLcqGfQ3pCkTTTnKKeFw65KVJUQWAol5RcCA.LrKYJ7TsvMfSoqcx 
+)\
+Passcode: Ja4h%pA0
