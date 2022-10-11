@@ -16,4 +16,4 @@
 
 ## Resources
 
-- [Questions](11 October_Questions.md)
+- [Questions](11%20October_Questions.md)
