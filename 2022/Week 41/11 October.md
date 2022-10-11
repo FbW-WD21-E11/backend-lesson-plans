@@ -20,3 +20,8 @@ DCI Career Fair 2.0
 ## Resources
 
 - [Interview Questions](11%20October_Questions.md)
+
+### Recording
+[Recording](https://us02web.zoom.us/rec/share/AanZRbIrrBkLD0aozRsaJRCTlQG8CakujvfGMAehMeMxJK3n2ZQnT_Bdqay5gY7l.NTxOoToVhAtaxt7f 
+)\
+Passcode: $?vL7xFa
