@@ -4,7 +4,8 @@
 
 ### Morning 09:00 - 12:00
 
-+ Open call for recap topics
++ Interview questions
++ Livecoding: Frontend / backend registration form with simple error handling
 
 ### Lunch
 
