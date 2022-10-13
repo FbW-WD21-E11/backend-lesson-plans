@@ -11,6 +11,8 @@
   + Using passport as middleware
   + Using passport with request headers
 
+**Live Coding:** [Livecoding](https://github.com/FbW-WD21-E11/livecoding-passport-jwt)
+
 ### Afternoon 13:00 - 16:15
 
 + [JWT Implementing Passport](https://github.com/GillesDCI/jwt-passport-assignment)
