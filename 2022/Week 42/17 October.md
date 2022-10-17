@@ -11,3 +11,8 @@
 ### Afternoon 13:00 - 16:15
 
 + Continue with previous assignments
+
+## Resources
+
+- [Notes](./17%20October_Notes.md)
+- [Livecoding: jwt via http-only cookie](https://github.com/FbW-WD21-E11/livecoding-passport-jwt/tree/http-cookie)
