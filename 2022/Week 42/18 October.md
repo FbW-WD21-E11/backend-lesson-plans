@@ -6,8 +6,6 @@
 
 + Handling JWT tokens in the frontend
   + httpOnly cookies
-  + localStorage / sessionStorage
-  + Security issues
 
 ### Afternoon 13:00 - 16:15
 
